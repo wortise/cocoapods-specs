@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   }
 
   s.name = 'WortiseSDK'
-  s.version = '1.8.0-alpha.2'
+  s.version = '1.8.0-alpha.3'
   s.summary = 'Wortise SDK for iOS'
   s.homepage = 'https://wortise.com/'
 
